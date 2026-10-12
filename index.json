@@ -1,0 +1,33 @@
+{
+  "name": "LectorXD",
+  "badgeLabel": "LXD",
+  "signingKey": "5ca1ca262cccb1952de2093cc382368b81548628cc4d59ed20d9e3424c58af8d",
+  "contact": {
+    "website": "https://github.com/cristianosky/lectorxd-repo"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "LectorXD",
+        "packageName": "eu.kanade.tachiyomi.extension.es.lectorxd",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/cristianosky/lectorxd-repo/main/apk/tachiyomi-es.lectorxd-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/cristianosky/lectorxd-repo/main/icon/eu.kanade.tachiyomi.extension.es.lectorxd.png",
+          "jarUrl": "https://raw.githubusercontent.com/cristianosky/lectorxd-repo/main/apk/tachiyomi-es.lectorxd-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "1",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "4078570629457850125",
+            "name": "LectorXD",
+            "language": "es",
+            "homeUrl": "https://lectorxd.com"
+          }
+        ]
+      }
+    ]
+  }
+}
